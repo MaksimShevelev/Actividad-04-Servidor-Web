@@ -43,8 +43,5 @@ class ProductManger{
 const key = '1234';
 
 module.exports = { ProductManger, key };
-/* module.exports = { 
-                    ProductManger: ProductManger, 
-                    key: key  
-                }; */
+
 
